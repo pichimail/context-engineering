@@ -2,7 +2,7 @@
 
 A comprehensive template for getting started with Context Engineering - the discipline of engineering context for AI coding assistants so they have the information necessary to get the job done end to end.
 
-> **Context Engineering is 10x better than prompt engineering and 100x better than vibe coding.**
+> **Context Engineering is 10x better than prompt engineering and 100x better than vibe coding.*
 
 ## 🚀 Quick Start
 
